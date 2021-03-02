@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "peferso"
 title_separator          : "|"
-subtitle                 : "Work in progress"
-name                     : "Pedro Fernández Soler"
-description              : "Currently in the Software sector. Interested in Programming, Science, Music and theoretical models of reality. PhD in theoretical Physics."
-url                      : "https://peferso.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+subtitle                 : "This site is a work in progress"
+name                     : "Pedro Fernández Soler personal website"
+description              : "A common place to gather and present my projects, interests and ideas."
+url                      : "https://github.com/peferso"
+baseurl                  : "/peferso.github.io"
+repository               : "peferso/peferso.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pedro Fernández Soler"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Currently in the Software sector. Interested in Programming, Science, Music and theoretical models of reality. PhD in theoretical Physics."
+  location         : "Madrid"
+  email            : pedro.fernandez.soler.90@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
