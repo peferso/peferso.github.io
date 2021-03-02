@@ -6,7 +6,9 @@ tags: [about]
 comments: false
 ---
 
-# Bio
+***
+
+## Bio
 
 Currently I am a junior Software developer. 
 
