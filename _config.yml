@@ -24,7 +24,7 @@ description              : "A common place to gather and present my projects, in
 url                      : "https://github.com/peferso"
 baseurl                  : "/peferso.github.io"
 repository               : "peferso/peferso.github.io"
-teaser                   : "/assets/images/talk-1.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Personal page of Pedro Fernández Soler"# overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
