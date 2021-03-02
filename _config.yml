@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Fernández Soler"
-  avatar           : "/assets/images/meAtDesert.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/meAtDesert-portrait.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Currently in the Software sector. Interested in Programming, Science, Music and theoretical models of reality. PhD in theoretical Physics."
   location         : "Madrid"
   email            : pedro.fernandez.soler.90@gmail.com
