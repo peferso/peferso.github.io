@@ -4,6 +4,7 @@ title: About Me
 author_profile: true
 tags: [about]
 comments: false
+classes: wide
 ---
 
 --------
