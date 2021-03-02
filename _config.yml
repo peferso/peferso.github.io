@@ -122,6 +122,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCn86m9trRRd7Kk4o2dqNoWw"
+    - label: "Bandcamp"
+      icon: "fab fa-bandcamp"
+      url: "https://postmotiv.bandcamp.com/"
+
 
 # Site Footer
 #footer:
