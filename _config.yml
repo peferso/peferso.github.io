@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "peferso"
+title_separator          : "|"
+subtitle                 : "Work in progress"
+name                     : "Pedro Fernández Soler"
+description              : "Currently in the Software sector. Interested in Programming, Science, Music and theoretical models of reality. PhD in theoretical Physics."
+url                      : "https://peferso.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
