@@ -2,12 +2,12 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About me"
-     url: /about-me/
-     description: "Some biographical notes about the author of this site"
    - title: "My cheatsheets"
      url: "https://peferso.github.io/cheat-sheets/"
      description: "A GitHub Pages project where I gather hacks and tips about different technologies"
+   - title: "About me"
+     url: /about-me/
+     description: "Some biographical notes about the author of this site"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
