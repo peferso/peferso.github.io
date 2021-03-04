@@ -5,7 +5,7 @@ author_profile: true
 tags: [about]
 comments: false
 classes: wide
-#toc: true
+toc: true
 ---
 
 
