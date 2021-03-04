@@ -8,6 +8,8 @@ main:
    - title: "About me"
      url: /about-me/
      description: "Some biographical notes about the author of this site"
+   - title: "Portfolio"
+     url: /portfolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
