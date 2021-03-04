@@ -120,18 +120,18 @@
 /*  width: 260px; */
 /*  height: 260px; */
 
-  @include breakpoint($large) {
-    display: block;
-/*    width: auto;/* auto*/
-/*    height: auto;/* auto*/
-  }
+/* @include breakpoint($large) {*/
+/*    display: block;*/
+/*    width: auto;*//* auto*/
+/*    height: auto;*//* auto*/
+/*  } */
 
   img {
     max-width: 260px;
     border-radius: 10%;
 
     @include breakpoint($large) {
-/*     padding: 0px;
+/*     padding: 0px;*/
 /*      border: 0px solid $border-color; */
     }
   }
