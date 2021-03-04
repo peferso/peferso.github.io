@@ -278,8 +278,8 @@ compress_html:
     envs: development
 
 collections:
-  collections_dir: collections
   - PhD_projects
+collections_dir: collections
 
 # Defaults
 defaults:
