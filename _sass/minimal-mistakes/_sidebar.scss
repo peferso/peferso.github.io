@@ -115,7 +115,7 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  display: block; /* table-cell */
   vertical-align: top;
   width: 10px;
   height: 100px;
