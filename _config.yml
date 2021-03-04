@@ -277,6 +277,9 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  collections_dir: collections
+  - PhD_projects
 
 # Defaults
 defaults:
