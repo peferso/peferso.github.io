@@ -31,6 +31,6 @@ My PhD research projects consisted on the development of theoretical models to d
 Some of these particles have been measured in experiments, thus, we tested our interpretation of these particles with the existing experimental data. 
 
 Thanks to the research activity I developed strong quantitative programming skills and interest in problem solving. 
-The technical topics covered in our research projects involved a wide range of mathematical calculations:  numerical resolution of matrix-algebraic equations, multiparametric data regression of nonlinear models, hypothesis testing, error analysis and propagation, parameter optimisation, data visualization and calculus.
+The technical topics covered in our research projects involved a wide range of mathematical calculations:  numerical resolution of matrix-algebraic equations, multiparametric data regression of nonlinear models, hypothesis testing, correlation analysis, error analysis and propagation, parameter optimisation, data visualization and calculus.
 
 I completed [my PhD thesis](https://inspirehep.net/literature/1767865) in 2019 with 9 research papers, althoug all my scientific publications can be found [here](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20fernandez-soler)
