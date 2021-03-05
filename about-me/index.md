@@ -24,4 +24,13 @@ I was soon seduced by theoretical Physics subjects, such as Quantum Field Theory
 
 Right after finishing the master I moved to Valencia (Spain), joining the [Hadronic & Nuclear Theory Group](https://ific.uv.es/nucth/research.html) research group, in the [Institute of Corpuscular Physics](https://webific.ific.uv.es/web/). 
 There, I started a PhD thesis about effective theories in particle physics with a predoctoral researcher contract. 
-Although the learning curve was pretty steep.. and never seemed to flatten! It was a really nice experience. I had the opportunity to collaborate in many research projects, in an international environment with colleagues of different nationalities. I also had the chance of communicating our findings, attending international scientific conferences, events and workshops in Spain, China, Japan, USA and Poland. My PhD research projects consisted on the development of theoretical models to describe and understand a set of particles called resonances. Some of these particles have been measured in experiments, and we tested our interpretation of these particles with the existing experimental data. Thanks to that activity I developed strong analytic and programming skills. 
+Although the learning curve was pretty steep.. and never seemed to flatten! It was a really nice experience. 
+I had the opportunity to collaborate in many research projects, in an international environment with colleagues of different nationalities. 
+I also had the chance of communicating our findings, attending international scientific conferences, events and workshops in Spain, China, Japan, USA and Poland. 
+My PhD research projects consisted on the development of theoretical models to describe and understand a set of particles called resonances. 
+Some of these particles have been measured in experiments, thus, we tested our interpretation of these particles with the existing experimental data. 
+
+Thanks to this activity I developed strong quantitative programming skills. 
+The topics covered by our research projects involved a wide range of mathematical calculations:  numerical resolution of matrix-algebraic equations, multiparametric data regression of nonlinear models, hypothesis testing, error analysis and propagation, parameter optimisation, data visualization and calculus.
+
+I completed my PhD thesis in 2019 with more than 9 research papers, my scientific publications can be found [here](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20fernandez-soler)
