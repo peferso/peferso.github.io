@@ -15,7 +15,7 @@ classes: wide
 Currently I am a software analyst in Santander Global Tech, Madrid. 
 But before reaching my actual position there were some milestones. 
 Below, I detail my previous professional steps.
-Let me thank you in advance for your interest in my story, I hope you find this set of strings interesting :wink:. 
+Let me thank you in advance for your interest in my story, I hope you find this set of strings interesting :wink:
 
 In 2013 I graduated in Physics in my hometown, Murcia (Spain).
 During these years I developed an interest in programming, despite the harshness of the language we used: Fortran. 
