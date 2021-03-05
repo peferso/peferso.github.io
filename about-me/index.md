@@ -23,7 +23,7 @@ Although my moving force was to learn more about complex systems (my BS thesis f
 I was soon seduced by theoretical Physics subjects, such as Quantum Field Theory and Advanced Quantum Mechanics. In 2014 I completed the Master's theoretical Phyisics specialization, with a thesis about the nucleon-nucleon interaction. This work was the seed of a scientific publication later, which can be checked out [here](https://doi.org/10.1103/PhysRevC.96.014004).
 
 Right after finishing the master I moved to Valencia (Spain), joining the [Hadronic & Nuclear Theory Group](https://ific.uv.es/nucth/research.html) research group, in the [Institute of Corpuscular Physics](https://webific.ific.uv.es/web/). 
-There, I started a PhD thesis about effective theories in particle physics with a predoctoral researcher contract. 
+There, I started a PhD thesis about effective theories in particle physics with a predoctoral research contract. 
 Although the learning curve was pretty steep.. and never seemed to flatten! It was a really nice experience. 
 I had the opportunity to collaborate in many research projects, in an international environment with colleagues of different nationalities. 
 I also had the chance of communicating our findings, attending international scientific conferences, events and workshops in Spain, China, Japan, USA and Poland. 
