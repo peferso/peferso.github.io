@@ -8,6 +8,15 @@ classes: wide
 toc: true
 ---
 
+Several papers included in my PhD focus on the understanding of some special particles called **resonances**.
+Resonances are unstable particles, that is, they don't live during much time.
+In fact, most of them are very rare in nature, they are produced in extreme events which involve nuclear reactions.
+They can be pictured as some weird combination of pieces of some toy, that can keep together at most during 
+$$0.000000000000000000000001$$ seconds.
+
+They are so tiny that we do not even know what is their size for sure, but it should be of the order of
+$$0.0000000000000001$$ meters.
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
