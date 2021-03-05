@@ -22,6 +22,12 @@ They are so tiny that we do not even know what is their size for sure, but it sh
 $0.0000000000000001$ meters.
 
 
+```r
+library(ggplot2)
+ggplot(iris,aes(x=Sepal.Width,y=Sepal.Length)) + geom_point()
+```
+
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
 
