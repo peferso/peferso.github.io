@@ -16,11 +16,11 @@ Currently I am a junior Software developer.
 
 In 2013 I graduated in Physics in my hometown, Murcia (Spain).
 During these years I developed an interest in programming, despite the harshness of the language we used: Fortran. 
-It definitely made an impact on me how this discipline was applied to simulate complex physical systems on computers.
+It definitely made an impact on me how this discipline is applied to simulate complex physical systems on computers.
 
 Guided by that interest, I pursued a Master program in Physics and Mathematics in the University of Granada.
 Although my moving force was to learn more about complex systems (my BS thesis focused on a one-dimensional traffic simulation implementing variations on the Nagel-Schreckeberg model),
-I was soon seduced by theoretical Physics subjects, such as Quantum Field Theory and Advanced Quantum Mechanics. I completed the theoretical Phyisics specialization with a master thesis about the nucleon-nucleon interaction. This work was the seed of a scientific publication later, which can be checked out [here](https://doi.org/10.1103/PhysRevC.96.014004) 
+I was soon seduced by theoretical Physics subjects, such as Quantum Field Theory and Advanced Quantum Mechanics. In 2014 I completed the Master's theoretical Phyisics specialization, with a thesis about the nucleon-nucleon interaction. This work was the seed of a scientific publication later, which can be checked out [here](https://doi.org/10.1103/PhysRevC.96.014004).
 
-
+Right after finishing the master I moved to Valencia, joining the [Hadronic & Nuclear Theory Group](https://ific.uv.es/nucth/research.html) research group, in the [Institute of Corpuscular Physics](https://webific.ific.uv.es/web/). I started a PhD thesis about effective theories with a predoctoral researcher contract. Although the learning curve was pretty steep, and never seamed to flatten! During these years I had the opportunity to collaborate in many research projects, in an international environment with colleagues of different nationalities. 
 
