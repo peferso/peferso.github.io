@@ -12,7 +12,7 @@ classes: wide
 
 ## Bio
 
-Currently I am a software analyst in Santander Global Tech, Madrid. But before reaching this point, I detail below what were my previous professional steps.
+Currently I am a software analyst in Santander Global Tech, Madrid. But before reaching this career point, I detail below what were my previous professional steps.
 Let me thank you in advance for your interest in my story, I hope you find this set of strings interesting :wink:. 
 
 In 2013 I graduated in Physics in my hometown, Murcia (Spain).
