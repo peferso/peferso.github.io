@@ -15,17 +15,11 @@ Resonances are unstable particles, that is, they don't live during much time.
 In fact, most of them are very rare in nature, they are produced in extreme events which involve nuclear reactions.
 They can be pictured as some weird combination of pieces of some toy, that can keep together at most during 
 
-$0.000000000000000000000001$ seconds.
+$$0.000000000000000000000001~\text{seconds}$$
 
 They are so tiny that we do not even know what is their size for sure, but it should be of the order of
 
-$0.0000000000000001$ meters.
-
-
-```r
-library(ggplot2)
-ggplot(iris,aes(x=Sepal.Width,y=Sepal.Length)) + geom_point()
-```
+$$0.0000000000000001~\text{meters.}$$
 
 ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
 
