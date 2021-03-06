@@ -8,9 +8,10 @@ classes: wide
 toc: true
 ---
 
-# Introduction
 
 Several papers included in my PhD focus on the understanding of some special particles called **resonances**.
+
+# Introduction
 Resonances are unstable particles, that is, they don't live during much time.
 In fact, most of them are very rare in nature, they are produced in extreme events which involve nuclear reactions.
 They can be pictured as some weird combination of pieces of some toy, that can keep together at most during 
