@@ -1,11 +1,11 @@
 ---
 layout: mpost 
 title: Calculation of particle masses and widths 
-author_profile: true
-tags: [about]
-comments: false
-classes: wide
-toc: true
+#author_profile: true
+#tags: [about]
+#comments: false
+#classes: wide
+#toc: true
 ---
 
 
