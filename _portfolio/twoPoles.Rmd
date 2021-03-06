@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: mpost 
 title: Calculation of particle masses and widths 
 author_profile: true
 tags: [about]
