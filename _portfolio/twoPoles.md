@@ -1,8 +1,12 @@
 ---
+layout: single
 title: "Calculation of particle masses and widths"
-layout: mpost
+author_profile: true
+tags: [Physics, Particle Physics, Theoretical Physics]
+comments: false
+classes: wide
+toc: true
 ---
-
 
 Several papers included in my PhD focus on the understanding of some special particles called **resonances**.
 
@@ -13,11 +17,11 @@ They can be pictured as some weird combination of pieces of some toy, that can k
 
 $$0.000000000000000000000001~\text{seconds}$$
 
+![0.000000000000000000000001~\text{seconds}](https://latex.codecogs.com/svg.latex?\Large&space;0.000000000000000000000001~\text{seconds})
+
 They are so tiny that we do not even know what is their size for sure, but it should be of the order of
 
-$$0.0000000000000001~\text{meters.}$$
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+![0.0000000000000001~\text{meters.}](https://latex.codecogs.com/svg.latex?\Large&space;0.0000000000000001~\text{meters.})
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
 
