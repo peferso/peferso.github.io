@@ -20,7 +20,7 @@ After this lapse of time, they split apart into subproducts, or _channels_.
 Resonances, like almost all the particles, are so tiny that we do not even know what is their size for sure, but it should be of the order of
 ![0.0000000000000001~\text{meters.}](https://latex.codecogs.com/svg.latex?\Large&space;0.0000000000000001~\text{meters.})
 
-This means that we do not observe them directly. Actually, when we "observe" something, we need to hit the object with light (photons) and process the scattered photons. 
+This means that we do not observe them directly. Actually, when we "observe" something, we need to hit the object with light, which is a stream photons, and process the scattered photons. 
 In the case of resonances, we observe them in collisions of other particles, which are accelerated in experiments and crashed into each other. 
 The colliding particles "split appart" and, sometimes, the subproducts recombine during very small times forming new particles, that is, resonances.
 Here the word _sometimes_ is very important... Probability is at the heart of Quantum Mechanics! 
