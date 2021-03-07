@@ -14,14 +14,18 @@ Several papers included in my PhD focus on the understanding of some special par
 Resonances are unstable particles, that is, they don't live during much time.
 In fact, most of them are very rare in nature, they are produced in extreme events which involve nuclear reactions.
 They can be pictured as some weird combination of pieces of some toy, that can keep together at most during 
+![0.000000000000000000000001~\text{seconds.}](https://latex.codecogs.com/svg.latex?\Large&space;0.000000000000000000000001~\text{seconds.})
+After this lapse of time, they split apart into subproducts, or _channels_.
 
-![0.000000000000000000000001~\text{seconds}](https://latex.codecogs.com/svg.latex?\Large&space;0.000000000000000000000001~\text{seconds})
-
-They are so tiny that we do not even know what is their size for sure, but it should be of the order of
-
+Resonances, like almost all the particles, are so tiny that we do not even know what is their size for sure, but it should be of the order of
 ![0.0000000000000001~\text{meters.}](https://latex.codecogs.com/svg.latex?\Large&space;0.0000000000000001~\text{meters.})
 
-\\( a = \alpha^3 \\)
+This means that we do not observe them directly. Actually, when we "observe" something, we need to hit the object with light (photons) and process the scattered photons. 
+In the case of resonances, we observe them in collisions of other particles, which are accelerated in experiments and crashed into each other. 
+The colliding particles "split appart" and, sometimes, the subproducts recombine during very small times forming new particles, that is, resonances.
+Here the word _sometimes_ is very important... Probability is at the heart of Quantum Mechanics! 
+Collision experiments are done in experimental facilities called particle accelerators or colliders, such as the famous [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider). 
+In these experiments, particles are "crashed" many times, and many of these times also at different energies (lets say, with different speeds). The result of all these collisions is accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
 
