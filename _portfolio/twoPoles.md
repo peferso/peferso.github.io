@@ -12,14 +12,14 @@ gallery1:
     alt: "placeholder image 1"
     title: "Event distributions of Ds pi particle pairs as measured by BaBar Collaboraion."
 gallery2:
-  - url: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.pdf
-    image_path: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.pdf
+  - url: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.png
+    image_path: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.png
     alt: "placeholder image 1"
-  - url: /assets/portfolio/twoPoles-figs/fig-imt-1rs.pdf
-    image_path: /assets/portfolio/twoPoles-figs/fig-imt-1rs.pdf
+  - url: /assets/portfolio/twoPoles-figs/fig-imt-1rs.png
+    image_path: /assets/portfolio/twoPoles-figs/fig-imt-1rs.png
     alt: "placeholder image 2"
-  - url: /assets/portfolio/twoPoles-figs/fig-imt-2rs.pdf
-    image_path: /assets/portfolio/twoPoles-figs/fig-imt-2rs.pdf
+  - url: /assets/portfolio/twoPoles-figs/fig-imt-2rs.png
+    image_path: /assets/portfolio/twoPoles-figs/fig-imt-2rs.png
     alt: "placeholder image 3"
 ---
 
@@ -70,4 +70,4 @@ There is an infinite variety of mathematical combinations that could describe a 
 From my point of view, one of the most beautiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
 When scattering amplitudes are considered as functions of complex variables, they automatically can be analysed as surfaces in the complex plane.
 The peaks representing resonances in the experiment, from a theoretical point of view, are associated to singularities of the scattering amplitudes in the complex energy plane (this means, with the energy variable having an imaginary component: E=Er+i\*Ei).
-The caveats and subtleties associated to this interpretation are beyond the scope of this post, but let me just say that, in practice, the mass and width of a resonance can be computed from the location of these singularities.
+The caveats and subtleties associated to this interpretation are beyond the scope of this post, but let me just say that, in practice, the mass and width of a resonance can be computed from the location of these singularities the complex plane of the energy variable.
