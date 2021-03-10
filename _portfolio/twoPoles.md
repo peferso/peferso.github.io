@@ -29,7 +29,7 @@ In these experiments, particles are "crashed" many times, a lot of them in great
 The result of all these collisions is accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
 With this information, scientist obtain curves as the following ones:
 
-![Event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001)](./twoPoles-fig/discovery-2317.png)
+![Event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001)](portfolio/twoPoles-fig/discovery-2317.png)
 
 The image above represents how a resonance manifests in experiment.
 It is telling us that in the final result of the collisions, we detect an excess of events: we detect an excess of pairs of Ds and pions with energies around 2.3 GeV/c^2.
