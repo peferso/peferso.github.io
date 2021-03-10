@@ -65,7 +65,9 @@ The ultimate goal of a theory describing particle collisions is to provide the *
 In a few words, it is a mathematical function that depends on a set of kinematic variables, such as the energy and momentum of the particles involved, but also on other parameters.
 There is an infinite variety of mathematical combinations that could describe a given process, but the space of functions is highly reduced taking into account physical constraints coming from symmetries and other principles. Although we will not focus on these topics here.
 
-{% include gallery id="gallery2" caption="Theoretical amplitudes and resonances as poles in the complex plane" %}
+## Resonances as singularities in the complex energy plane
+
+{% include gallery id="gallery2" caption="Theoretical amplitudes and resonances as poles in the complex energy plane" %}
 
 From my point of view, one of the most beautiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
 When scattering amplitudes are considered as functions of complex variables, they automatically can be analysed as surfaces in the complex plane.
