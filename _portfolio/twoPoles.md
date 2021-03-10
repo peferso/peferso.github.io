@@ -67,7 +67,7 @@ There is an infinite variety of mathematical combinations that could describe a 
 
 {% include gallery id="gallery2" caption="Theoretical amplitudes and resonances as poles in the complex plane" %}
 
-From my point of view, one of the most beatiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
+From my point of view, one of the most beautiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
 When scattering amplitudes are considered as functions of complex variables, they automatically can be analysed as surfaces in the complex plane.
-The peaks representing resonances in the experiment, from a theoretical point of view, are associated to singularities of the scattering amplitudes.
-
+The peaks representing resonances in the experiment, from a theoretical point of view, are associated to singularities of the scattering amplitudes in the complex energy plane (this means, with the energy variable having an imaginary component: E=Er+i\*Ei).
+The caveats and subtleties associated to this interpretation are beyond the scope of this post, but let me just say that, in practice, the mass and width of a resonance can be computed from the location of these singularities.
