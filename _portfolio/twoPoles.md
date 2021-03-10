@@ -2,7 +2,7 @@
 layout: single
 title: "Calculation of particle masses and widths"
 author_profile: true
-tags: [Physics, Particle Physics, Theoretical Physics]
+tags: [Physics, Particle Physics, Theoretical Physics, resonances, amplitudes]
 comments: false
 classes: wide
 toc: true
@@ -35,23 +35,24 @@ Here the word _sometimes_ is very important... Probability is at the heart of Qu
 Collision experiments are done in experimental facilities called particle accelerators or colliders, such as the famous [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider). 
 In these experiments, particles are "crashed" many times, a lot of them accelerated together in great numbers forming what are called beams.
 The results of all these collisions are measured and accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
-With this information, scientist obtain curves as the following ones:
+With this information, scientists obtain curves as the following one:
 
 {% include gallery id="gallery1" caption="Events distributions of particle pairs" %}
 
 The image above represents how a resonance manifests experimentally.
-The plot is the events distribution, proportional to the number of Ds pi pairs measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001) in the discovery of the Ds(2317) resonance.
-What this figure is telling us is that, in the final result of the collisions, the number of Ds pi pairs detected is different depending on the energy of the pair (which is the x axis).
+The plot is a  distribution of events, and it is proportional to the number of Ds pi pairs measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001) in the discovery of the Ds(2317) resonance.
+What this figure is telling us is that in the products generated in the collisions, the number of Ds pi pairs detected is different depending on the energy of the pair (which is the x axis).
 The peak is an excess of Ds and pions pairs measured with energies around 2.3 GeV/c^2.
 This could be interpreted as if these particles were produced after the decay of the resonance.
-Recall that energy and mass are equivalent (E=m\*c^2), therefore, we interpret that the mass of the resonance is 2.3 GeV/c^2.
+Recall that energy and mass are equivalent (E=m\*c^2), therefore, the mass of the resonance is well described by the position of the peak at 2.3 GeV/c^2, while the width of the peak is related with the resonance lifetime.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
+# Amplitudes
 
-Sed id aliquam tellus. Etiam tempor eros et erat varius eleifend. Fusce ultricies sagittis vehicula. Etiam malesuada, nibh nec viverra rhoncus, dui lorem luctus diam, vitae viverra risus orci eu lectus. Integer ornare arcu at lobortis condimentum. Aliquam ornare lacus vitae risus euismod pellentesque sed maximus justo. Aenean dictum pulvinar sapien, vel sodales nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sed sapien posuere, dictum lectus et, interdum augue. Nunc eget nisi nec enim faucibus dapibus. Praesent posuere lectus auctor viverra consequat. Sed interdum ornare arcu, eu finibus magna facilisis id. Ut non maximus mi. Nullam facilisis dapibus elit.
+In my PhD I confronted some experimental results similar to the one described above with theoretical calculations. 
+The curves as the one shown above can be also obtained theoretically.
+Of course, there are different theoretical models, each one with different assumptions, "ingredients" and parameters.
+The ultimate goal of a theory describing particle collisions is to provide the **scattering amplitude**.
+In a few words, it is a mathematical function that depends on a set of kinematic variables, such as the energy and momentum of the particles involved, but also on other parameters.
+There is an infinite variety of mathematical combinations that could describe a given process, but the space of functions is highly reduced taking into account physical constraints coming from symmetries and other principles. Although we will not focus on these topics here.
 
-Duis in mollis tortor, quis dictum purus. Vivamus scelerisque ante ut tellus congue volutpat. Integer consequat sit amet nunc eu dictum. Aenean eget purus et arcu dapibus posuere. Aliquam libero dolor, scelerisque non urna sed, eleifend pulvinar sapien. Quisque interdum leo et malesuada volutpat. Ut ac posuere mi, in faucibus est. Proin dapibus nec ante quis sodales. Ut consectetur, ligula non posuere gravida, sapien nulla consequat tortor, sit amet condimentum nisi nisl id ipsum.
 
-Cras dignissim magna neque, id condimentum justo gravida et. Phasellus sit amet nisi et metus venenatis posuere in ac risus. Mauris at dui eu justo fermentum accumsan. Nulla eleifend massa risus, non luctus augue maximus placerat. Nunc non eros nec leo mollis auctor euismod nec metus. Donec pulvinar luctus dictum. Pellentesque tincidunt diam tempor lobortis mattis. Sed fringilla viverra dui, eget posuere sapien aliquet a. Suspendisse elementum pellentesque purus vitae molestie. Mauris accumsan non mauris viverra ultricies. Proin non ipsum rhoncus, ultrices diam vitae, commodo risus. Nam vulputate dolor in fringilla mollis. Mauris dapibus posuere dolor, non iaculis lorem ornare et. Aliquam erat volutpat.
-
-Nunc venenatis tempus accumsan. Nullam leo velit, efficitur ac erat ac, consequat ullamcorper sem. Praesent est augue, pharetra nec neque quis, bibendum ornare ex. Nulla facilisi. Mauris eget nulla semper, consequat nisi sed, ornare nisl. Sed cursus porttitor magna vel gravida. Quisque eget tellus vestibulum, euismod massa ut, elementum nisi. Aenean eu libero ipsum. Duis semper tincidunt dolor, ac posuere nibh dictum aliquam. Duis scelerisque enim et ipsum blandit malesuada. Fusce lacinia nisi lectus, quis tincidunt diam vehicula varius. Cras tincidunt, sapien nec tempus posuere, libero est molestie est, non maximus lectus lorem a eros. 
