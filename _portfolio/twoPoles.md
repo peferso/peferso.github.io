@@ -29,7 +29,7 @@ In these experiments, particles are "crashed" many times, a lot of them in great
 The result of all these collisions is accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
 With this information, scientist obtain curves as the following ones:
 
-![Event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001)](./twoPoles/discovery-2317.png)
+![Event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001)](./twoPoles-fig/discovery-2317.png)
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
