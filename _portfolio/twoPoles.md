@@ -11,6 +11,16 @@ gallery1:
     image_path: /assets/portfolio/twoPoles-figs/discovery-2317.png
     alt: "placeholder image 1"
     title: "Event distributions of Ds pi particle pairs as measured by BaBar Collaboraion."
+gallery2:
+  - url: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.pdf
+    image_path: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.pdf
+    alt: "placeholder image 1"
+  - url: /assets/portfolio/twoPoles-figs/fig-imt-1rs.pdf
+    image_path: /assets/portfolio/twoPoles-figs/fig-imt-1rs.pdf
+    alt: "placeholder image 2"
+  - url: /assets/portfolio/twoPoles-figs/fig-imt-2rs.pdf
+    image_path: /assets/portfolio/twoPoles-figs/fig-imt-2rs.pdf
+    alt: "placeholder image 3"
 ---
 
 Several papers included in my PhD focus on the understanding of some special particles called **resonances**.
@@ -55,4 +65,9 @@ The ultimate goal of a theory describing particle collisions is to provide the *
 In a few words, it is a mathematical function that depends on a set of kinematic variables, such as the energy and momentum of the particles involved, but also on other parameters.
 There is an infinite variety of mathematical combinations that could describe a given process, but the space of functions is highly reduced taking into account physical constraints coming from symmetries and other principles. Although we will not focus on these topics here.
 
+{% include gallery id="gallery2" caption="Theoretical amplitudes and resonances as poles in the complex plane" %}
+
+From my point of view, one of the most beatiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
+When scattering amplitudes are considered as functions of complex variables, they automatically can be analysed as surfaces in the complex plane.
+The peaks representing resonances in the experiment, from a theoretical point of view, are associated to singularities of the scattering amplitudes.
 
