@@ -62,14 +62,16 @@ In my PhD I confronted some experimental results similar to the one described ab
 The curves as the one shown above can be also obtained theoretically.
 Of course, there will be different theoretical models able to describe a single curve or data set, each one with different assumptions, "ingredients" and parameters.
 The ultimate goal of a theory describing particle collisions is to provide the **scattering amplitude**.
-In a few words, it is a mathematical function that depends on a set of kinematic variables, such as the energy and momentum of the particles involved, but also on other parameters.
-There is an infinite variety of mathematical combinations that could describe a given process, but the space of functions is highly reduced taking into account physical constraints coming from symmetries and other principles. Although we will not focus on these topics here.
+In a few words, it is a mathematical function that depends on a set of kinematic variables, such as the energy and momentum of the particles involved.
+It will also depend on other parameters or physical constants.
+There is an infinite variety of mathematical combinations that could describe a given process or experimental curve, but the space of functions is highly reduced taking into account physical constraints coming from symmetries and other principles. Although we will not focus on these topics here.
 
 ## Resonances as singularities in the complex energy plane
 
+From my point of view, one of the most beautiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
+
 {% include gallery id="gallery2" caption="Theoretical amplitudes and resonances as poles in the complex energy plane" %}
 
-From my point of view, one of the most beautiful aspects of particle physics and mathematics is the link that exists between particles and the theory of complex numbers.
 When scattering amplitudes are considered as functions of complex variables, they automatically can be analysed as surfaces in the complex plane.
 The peaks representing resonances in the experiment, from a theoretical point of view, are associated to singularities of the scattering amplitudes in the complex energy plane (this means, with the energy variable having an imaginary component: E=Er+i\*Ei).
 The caveats and subtleties associated to this interpretation are beyond the scope of this post, but let me just say that, in practice, the mass and width of a resonance can be computed from the location of these singularities the complex plane of the energy variable.
