@@ -37,7 +37,7 @@ In these experiments, particles are "crashed" many times, a lot of them accelera
 The results of all these collisions are measured and accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
 With this information, scientist obtain curves as the following ones:
 
-{% include gallery caption id="gallery1" caption="Event distributions of particle pairs" %}
+{% include gallery id="gallery1" caption="Event distributions of particle pairs" %}
 
 The image above represents how a resonance manifests in experiment.
 It is the event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001) in the discovery of the Ds(2317) resonance.
