@@ -6,6 +6,11 @@ tags: [Physics, Particle Physics, Theoretical Physics]
 comments: false
 classes: wide
 toc: true
+gallery1:
+  - url: /assets/portfolio/twoPoles-figs/discovery-2317.png
+    image_path: /assets/portfolio/twoPoles-figs/discovery-2317.png
+    alt: "placeholder image 1"
+    title: "Event distributions of Ds pi particle pairs as measured by BaBar Collaboraion."
 ---
 
 Several papers included in my PhD focus on the understanding of some special particles called **resonances**.
@@ -28,12 +33,11 @@ In the case of resonances, we observe them in collisions of other particles, whi
 The colliding particles "split appart" and, sometimes, the subproducts recombine during very small times forming new particles, that is, resonances.
 Here the word _sometimes_ is very important... Probability is at the heart of Quantum Mechanics! 
 Collision experiments are done in experimental facilities called particle accelerators or colliders, such as the famous [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider). 
-In these experiments, particles are "crashed" many times, a lot of them in great numbers in what are called beams.
-The result of all these collisions is accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
+In these experiments, particles are "crashed" many times, a lot of them accelerated together in great numbers forming what are called beams.
+The results of all these collisions are measured and accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
 With this information, scientist obtain curves as the following ones:
 
-
-![Event distribution of Ds pi pairs as measured by the BABAR Collaboration](assets/portfolio/twoPoles-figs/discovery-2317.png)
+{% include gallery caption id="gallery1" caption="Event distributions of particle pairs" %}
 
 The image above represents how a resonance manifests in experiment.
 It is the event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001) in the discovery of the Ds(2317) resonance.
