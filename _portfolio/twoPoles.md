@@ -14,13 +14,13 @@ gallery1:
 gallery2:
   - url: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.png
     image_path: /assets/portfolio/twoPoles-figs/fig-events-belle-fit1.png
-    alt: "placeholder image 1"
+#alt: "placeholder image 1"
   - url: /assets/portfolio/twoPoles-figs/fig-imt-1rs.png
     image_path: /assets/portfolio/twoPoles-figs/fig-imt-1rs.png
-    alt: "placeholder image 2"
+#alt: "placeholder image 2"
   - url: /assets/portfolio/twoPoles-figs/fig-imt-2rs.png
     image_path: /assets/portfolio/twoPoles-figs/fig-imt-2rs.png
-    alt: "placeholder image 3"
+#alt: "placeholder image 3"
 ---
 
 Several papers included in my PhD focus on the understanding of some special particles called **resonances**.
