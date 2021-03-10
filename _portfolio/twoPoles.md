@@ -50,7 +50,7 @@ Recall that energy and mass are equivalent (E=m\*c^2), therefore, the mass of th
 
 In my PhD I confronted some experimental results similar to the one described above with theoretical calculations. 
 The curves as the one shown above can be also obtained theoretically.
-Of course, there are different theoretical models, each one with different assumptions, "ingredients" and parameters.
+Of course, there will be different theoretical models able to describe a single curve or data set, each one with different assumptions, "ingredients" and parameters.
 The ultimate goal of a theory describing particle collisions is to provide the **scattering amplitude**.
 In a few words, it is a mathematical function that depends on a set of kinematic variables, such as the energy and momentum of the particles involved, but also on other parameters.
 There is an infinite variety of mathematical combinations that could describe a given process, but the space of functions is highly reduced taking into account physical constraints coming from symmetries and other principles. Although we will not focus on these topics here.
