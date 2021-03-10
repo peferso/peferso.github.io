@@ -14,11 +14,11 @@ Several papers included in my PhD focus on the understanding of some special par
 Resonances are unstable particles, that is, they don't live during much time.
 In fact, most of them are very rare in nature, they are produced in extreme events which involve nuclear reactions.
 They can be pictured as some weird combination of pieces of some toy, that can keep together at most during 
-![0.000000000000000000000001~\text{seconds.}](https://latex.codecogs.com/svg.latex?\Large&space;0.000000000000000000000001~\text{seconds.})
+0.000000000000000000000001 seconds.
 After this lapse of time, they split apart into subproducts, or _channels_.
 
 Resonances, like almost all the particles, are so tiny that we do not even know what is their size for sure, but it should be of the order of
-![0.0000000000000001~\text{meters.}](https://latex.codecogs.com/svg.latex?\Large&space;0.0000000000000001~\text{meters.})
+0.0000000000000001 meters.
 
 This means that we do not observe them directly. Actually, when we "observe" something, we need to hit the object with light, which is a stream photons, and process the scattered photons. 
 In the case of resonances, we observe them in collisions of other particles, which are accelerated in experiments and crashed into each other. 
