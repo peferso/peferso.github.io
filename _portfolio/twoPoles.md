@@ -37,12 +37,14 @@ In these experiments, particles are "crashed" many times, a lot of them accelera
 The results of all these collisions are measured and accumulated, allowing to estimate the probability of measuring certain products after the collisions. 
 With this information, scientist obtain curves as the following ones:
 
-{% include gallery id="gallery1" caption="Event distributions of particle pairs" %}
+{% include gallery id="gallery1" caption="Events distributions of particle pairs" %}
 
-The image above represents how a resonance manifests in experiment.
-It is the event distribution of Ds pi pairs as measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001) in the discovery of the Ds(2317) resonance.
-What this figure is telling us is that in the final result of the collisions an excess of events is detected: an excess of Ds and pions pairs measured with energies around 2.3 GeV/c^2.
- 
+The image above represents how a resonance manifests experimentally.
+The plot is the events distribution, proportional to the number of Ds pi pairs measured by [BABAR Collaboration](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.242001) in the discovery of the Ds(2317) resonance.
+What this figure is telling us is that, in the final result of the collisions, the number of Ds pi pairs detected is different depending on the energy of the pair (which is the x axis).
+The peak is an excess of Ds and pions pairs measured with energies around 2.3 GeV/c^2.
+This could be interpreted as if these particles were produced after the decay of the resonance.
+Recall that energy and mass are equivalent (E=m\*c^2), therefore, we interpret that the mass of the resonance is 2.3 GeV/c^2.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo vehicula justo, eget lacinia orci lobortis et. Proin dignissim elementum erat. Vivamus rhoncus odio arcu, vel bibendum tellus egestas vitae. Sed condimentum magna nulla, non tempus ligula sagittis id. Etiam molestie tincidunt nisi id venenatis. Duis vulputate diam sodales diam consectetur, vitae vulputate libero vulputate. Morbi euismod, velit quis auctor euismod, libero velit commodo neque, non maximus ante enim nec dui. Praesent nec imperdiet ligula.
 
