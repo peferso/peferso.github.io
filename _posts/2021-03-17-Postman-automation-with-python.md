@@ -33,6 +33,19 @@ import time
 * `json`: this package is necessary to manage `.json` files
 * `os`: this package is necessary to discover the input `.json` forms and to save the outputs in the filesystem
 * `time`: this package is not necessary, but I used it to print the elapsed time during requests
+```python
+In [2]:print('Python version')
+   ...: print(sys.version)
+   ...: print('Packages versions')
+   ...: print('requests:', requests.__version__)
+   ...: print('json:', json.__version__)
+Python version
+3.6.3 |Anaconda, Inc.| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)]
+Packages versions
+requests: 2.18.4
+json: 2.0.9
+```
+_Packages `os`, `sys` and `time` do not have `__version__` argument._
 
 ## Configuring the Postman connection parameters
 
