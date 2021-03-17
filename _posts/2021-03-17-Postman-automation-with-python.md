@@ -53,7 +53,7 @@ To perform an API call we need
 * The destination url
 * Authorization parameters
 
-![Click on the code icon and select python](assets/posts/postman-automation-python/Postman-code-icon.png)
+![Click on the code icon and select python](../assets/posts/postman-automation-python/Postman-code-icon.png)
 
 If you have performed a successful API call using Postman manually, you can easily obtain these parameters clicking on the *code* icon (see image). 
 These parameters are contained in the script as follows:
