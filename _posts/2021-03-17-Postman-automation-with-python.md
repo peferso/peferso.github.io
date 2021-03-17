@@ -15,7 +15,7 @@ Postman is a software used for API testing tasks.
 I am not an Postman expert. In my case, I had to use it to send a large number of forms in `.json` format to a remote host, in order to collect and analyze the `.json` response.
 The goal was to ensure that the `.json` outputs contain specific fields, and that their value was appropriate according to corresponding the `.json` input.
 
-The verification step is outside the scope of the present post. Here we will see how we can automate the Postman requests and the collection of the `.json` outputs.
+The verification step is outside the scope of the present post. Here we will see how we can automate the Postman requests as well as how to collect and save locally the `.json` outputs.
 
 # The automation
 
