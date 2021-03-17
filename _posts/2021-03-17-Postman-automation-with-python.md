@@ -7,12 +7,12 @@ comments: true
 classes: wide
 toc: true
 ---
-Let us briefly describe here how to automate postman API requests using python
+How to automate postman API requests using python
 
 # A bit of context
 
-Postman is a framework used for API testing tasks. 
-I am not an expert on Postman, but in my case, I had to use it to send many forms in `.json` format to a remote host, in order to collect and analyze the `.json` response.
+Postman is a software used for API testing tasks. 
+I am not an Postman expert. In my case, I had to use it to send a large number of forms in `.json` format to a remote host, in order to collect and analyze the `.json` response.
 The goal was to ensure that the `.json` outputs contain specific fields, and that their value was appropriate according to corresponding the `.json` input.
 
 The verification step is outside the scope of the present post. Here we will see how we can automate the Postman requests and the collection of the `.json` outputs.
@@ -103,4 +103,15 @@ Here is the code to save the output in a .json file:
 note how here we need to use the `json.dump` method instead of `json.dumps` used before to save the json content into a string. 
 Besides, the `indent` parameter adds indentation to the output file, making it easier to read.
 
-## Final note
+# Final remarks
+
+Let me know if this humble post was useful for you! :wink:
+As I mentioned, I have not a huge experience using Postman, just for a specific type of tests that I had to repeat many times. 
+
+I found interesting the possibility to automate these tasks, and python was a good solution for it.
+Besides, I was able to automate the subsequent content analysis of the json outputs, necessary to complete the tests. 
+Although this part is highly dependent on the test case considered and for that reason, I did not include it in the scope of this post. 
+Perhaps will appear in a future entry!
+
+With best regards.
+Pedro.
