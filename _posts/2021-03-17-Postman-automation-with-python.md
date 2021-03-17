@@ -34,7 +34,7 @@ import time
 * `os`: this package is necessary to discover the input `.json` forms and to save the outputs in the filesystem
 * `time`: this package is not necessary, but I used it to print the elapsed time during requests
 ```python
-In [2]:print('Python version')
+In [2]: print('Python version')
    ...: print(sys.version)
    ...: print('Packages versions')
    ...: print('requests:', requests.__version__)
