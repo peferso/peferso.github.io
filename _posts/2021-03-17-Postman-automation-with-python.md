@@ -101,7 +101,7 @@ Here is the code to save the output in a .json file:
 ...
 ```
 note how here we need to use the `json.dump` method instead of `json.dumps` used before to save the json content into a string. 
-Besides, the `indent` parameter adds indentation to the output file, making it easier to read.
+Besides, the `indent` parameter adds indentation to the output file, making it easier to read for human eyes :rofl:.
 
 # Final remarks
 
