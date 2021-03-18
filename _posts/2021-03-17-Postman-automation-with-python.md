@@ -88,10 +88,10 @@ During the iteration, we import them one by one using the `json.load()` method:
 ```
 And then storing them in the `payload` variable of type `str`, since `jsonInput` is of type `dict`
 ```python
-In[1]: print(jsonInput.__class__)
+In[2]: print(jsonInput.__class__)
 <class 'dict'>
 
-In[1]: print(payload.__class__)
+In[3]: print(payload.__class__)
 <class 'str'>
 ```
 
