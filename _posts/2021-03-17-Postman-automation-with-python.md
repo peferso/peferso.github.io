@@ -7,7 +7,7 @@ comments: true
 classes: wide
 toc: true
 ---
-How to automate postman API requests using python
+How to automate postman API requests using python.
 
 # A bit of context
 
@@ -29,10 +29,13 @@ import os
 import sys
 import time
 ```
-* `requests`: we need this package to perform the API calls
-* `json`: this package is necessary to manage `.json` files
-* `os`: this package is necessary to discover the input `.json` forms and to save the outputs in the filesystem
-* `time`: this package is not necessary, but I used it to print the elapsed time during requests
+
+* `requests`: we need this package to perform the API calls.
+* `json`: this package is necessary to manage `.json` files.
+* `os`: this package is necessary to discover the input `.json` forms and to save the outputs in the filesystem.
+* `sys`: not strictly necessary, I used it to print package versions and to stop the execution according to certain conditions.
+* `time`: this package is not necessary, but I used it to print the elapsed time during requests.
+
 ```python
 In [2]: print('Python version')
    ...: print(sys.version)
@@ -45,6 +48,7 @@ Packages versions
 requests: 2.18.4
 json: 2.0.9
 ```
+
 _Packages `os`, `sys` and `time` do not have `__version__` argument._
 
 ## Configuring the Postman connection parameters
